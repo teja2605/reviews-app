@@ -242,7 +242,7 @@ src/
 
 Can be deployed on:
 
-* **Vercel**
+* [**Vercel**](https://reviews-app-opal.vercel.app)
 * **Netlify**
 * **Railway**
 * Or any modern static hosting platform
